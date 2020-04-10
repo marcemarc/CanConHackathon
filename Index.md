@@ -9,7 +9,6 @@ Attendees:
 - [Busra Parnell](https://twitter.com/onlybusranow)
 - [Thomas Morris](https://twitter.com/mozzydev)
 - James Wilkinson
-- [Erica Quessenberry](https://twitter.com/reddesigns)
 - [Emma Burstow](https://twitter.com/emaburst)
 - [Jan Skovgaard Olsen](https://twitter.com/therealbatjan)
 - [Laura Weatherhead](https://twitter.com/lssweatherhead)
@@ -27,8 +26,8 @@ Attendees:
 - [Joe Glombek](https://twitter.com/joeglombek)
 - [Pete Duncanson & Seth](https://twitter.com/peteduncanson)
 - [Arkadiusz Biel](https://twitter.com/bielu1)
-- [Janae Cram](https://twitter.com/naepalm)
 - Andreea Covaciu
+- [Marc Goodson](https://twitter.com/marcemarc) 
 
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
