@@ -31,6 +31,7 @@ Attendees:
 - Andreea Covaciu
 - [Nik Rimington](https://twitter.com/hotchillicode)
 - [Allan Kirk](https://twitter.com/MrAllanKirk)
+- [Poornima Nayar :-)](https://twitter.com/PoornimaNayar)
 # Wish you were here!
 If you can't make it but want to add youself to the guest book, add here!💜
 
