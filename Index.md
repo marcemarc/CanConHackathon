@@ -20,6 +20,7 @@ Attendees:
 - [Lotte Pitcher](https://twitter.com/lottepitcher)
 - [Adam Werner](https://twitter.com/castellantech)
 - [Sebastiaan Janssen](https://twitter.com/cultiv)
+- [Marc Goodson](https://twitter.com/marcemarc)
 - [Radu-Gabriel Orleanu](https://twitter.com/raduorleanu)
 - [Jeavon Leopold](https://twitter.com/crumpled_jeavon)
 - Matthew Berner
